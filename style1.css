@@ -1,0 +1,68 @@
+ 
+
+ h3{
+	color: rgb(239, 22, 50);
+    
+	text-align: center;
+}
+
+#countdown-container {
+    display: inline-block;  
+    width: 300px;  
+	
+    margin: 150px 0; 
+    border-radius: 5px;  
+    background: #085c6d;  
+
+	 
+
+	 
+}
+#countdown {
+    font-family: "Fira Sans", sans-serif;  
+    display: inline-block;  
+	width: 500;
+    padding: 30px; 
+    background: #1d81af;
+    color: white;  
+	 
+}
+
+#countdown span {
+    font-weight: bold;  
+    font-size: 30px; 
+
+}
+
+#buttons1 {
+	margin-top: 0px;
+}
+
+.btn {
+	width: 100px;
+	padding: 10px 15px;
+	margin: 0px 20px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 4px;
+	cursor: pointer;
+	font-size: 20px;
+	transition: 0.5s;
+	color: white;
+	font-weight: 500;
+}
+
+#start1 {
+	background-color: #ec430b;
+}
+
+#stop1 {
+	background-color: #f114af;
+}
+
+#reset1 {
+	background-color: #620df6;
+}
+
+ 
